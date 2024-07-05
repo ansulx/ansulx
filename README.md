@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansul</h1>
-<h3 align="center">A passionate frontend developer from Skilled Full Stack Developer with experience in developing responsive web applications using MERN stack, and contributing to blockchain projects. Proficient in JavaScript, React, Python, and Solidity with a proven track record in both academic and professional settings.</h3>
+<h3 align="center">A passionate Skilled Full Stack Developer with experience in developing responsive web applications using MERN stack, and contributing to blockchain projects. Proficient in JavaScript, React, Python, and Solidity with a proven track record in both academic and professional settings.</h3>
 
 - 🔭 I’m currently working on **Block-Barter**
 
